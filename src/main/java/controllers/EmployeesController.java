@@ -16,6 +16,7 @@ public class EmployeesController {
     public static void main(String[] args) {
         staticFileLocation("public");
         ManagersController managersController = new ManagersController();
+        EngineersController engineersController = new EngineersController();
         Seeds.seedData();
 
 
