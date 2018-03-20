@@ -1,4 +1,18 @@
 body {
-    background-color: #eee;
+    background-color: #555;
     font-family: arial;
+    color: #ddd;
     }
+
+
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+#engineer_image {
+    width: 50%;
+    color: white;
+}
